@@ -13,7 +13,7 @@
     @apply bg-light-900 dark:bg-dark-300;
   }
   .background-light800_darkgradient {
-    @apply bg-light-800 dark:dark-gradient;
+    @apply dark:dark-gradient bg-light-800;
   }
   .background-light800_dark400 {
     @apply bg-light-800 dark:bg-dark-400 !important;
@@ -133,7 +133,7 @@
     @apply text-[10px] font-normal leading-[13px];
   }
   .placeholder {
-    @apply placeholder:text-light-400 dark:placeholder:text-light-;
+    @apply placeholder:text-light-400 dark:placeholder:text-light-500;
   }
   .invert-colors {
     @apply invert dark:invert-0;
