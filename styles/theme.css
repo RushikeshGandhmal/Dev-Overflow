@@ -57,8 +57,8 @@
   .text-dark400_light800 {
     @apply text-dark-400 dark:text-light-800;
   }
-  .text-light400_light500 {
-    @apply text-light-400 dark:text-light-500 !important;
+  .text-dark400_light500 {
+    @apply text-dark-400 dark:text-light-500 !important;
   }
   .text-dark400_light500 {
     @apply text-dark-400 dark:text-light-500;
@@ -66,8 +66,8 @@
   .text-dark400_light900 {
     @apply text-dark-400 dark:text-light-900 !important;
   }
-  .text-light400_light500 {
-    @apply text-light-400 dark:text-light-500 !important;
+  .text-dark400_light500 {
+    @apply text-dark-400 dark:text-light-500 !important;
   }
   .light-border {
     @apply border-light-800 dark:border-dark-300;
